@@ -1,2 +1,2 @@
 # video-admin
-video admin panel
+Admin Panel for videos imported from picasa and streamed with video.js/jwplayer
